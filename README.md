@@ -1,5 +1,7 @@
 # Redirector
 
+[![Docker Repository on Quay](https://quay.io/repository/webmochallc/redirector/status "Docker Repository on Quay")](https://quay.io/repository/webmochallc/redirector)
+
 Takes any request and redirects it to `$TARGET`
 
 uses 302 StatusFound by default
